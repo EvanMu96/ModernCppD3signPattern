@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+iterator/.DS_Store
+.DS_Store
